@@ -1,0 +1,7 @@
+{
+  "title": "Migrate database schema to PostgreSQL 16",
+  "description": "Update all ORM models, execute schema migration scripts in dry-run mode, and verify that Row-Level Security policies pass automated integration suites.",
+  "assignee_id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d",
+  "due_date": "2026-09-15T17:00:00Z",
+  "priority": "high"
+}
